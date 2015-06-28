@@ -237,8 +237,6 @@ typedef struct tm ClockStruc;
 #endif
 
 
-#include <lib_list.h>
-#include <lib_hash.h>
 /*
 #include <ascii.h>
 #include <app_log.h>
