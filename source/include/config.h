@@ -1,3 +1,6 @@
+#ifndef __CONFIG_H__
+#define __CONFIG_H__
+
 #include "types.h"
 
 typedef struct {
@@ -15,4 +18,6 @@ typedef struct {
 }global_confs_t;
 
 static INT32 load_config(global_confs_t *, BOOL8);
+
+#endif //__CONFIG_H__
 
