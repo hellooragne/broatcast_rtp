@@ -11,7 +11,7 @@ int main() {
 	printf("hello broadcast rtp\n");
     
     // load configure data
-    n32Result = load_config(&global_confs, FALSE_B8);
+    //n32Result = load_config(&global_confs, FALSE_B8);
     
     // 
 	return 0;
